@@ -1,5 +1,11 @@
 Youtube link: https://youtu.be/0IWP33cDonk?si=qz-k8ylZ5NVMYjVL
 
+MEMBERS: 
+MARANAN, AARON ERNEST , 
+BALMES, BETHANY GRACE, 
+DUMARA-OG, KEN LAURENCE M. ,
+FRUELDA ETHEL
+
 CICS CONDUCT APP
 
 ADMIN
@@ -38,3 +44,6 @@ Add Violations: Admins can add new violations for a student.
 
 
 The app allows for efficient tracking and management of student violations, ensuring that both professors and admins can report and handle incidents smoothly.
+
+
+
